@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\bin\Debug\net7.0\CARaceCondition.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\bin\Debug\net7.0\CARaceCondition.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\bin\Debug\net7.0\CARaceCondition.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\bin\Debug\net7.0\CARaceCondition.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\bin\Debug\net7.0\CARaceCondition.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\refint\CARaceCondition.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\CARaceCondition.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CARaceCondition\obj\Debug\net7.0\ref\CARaceCondition.dll

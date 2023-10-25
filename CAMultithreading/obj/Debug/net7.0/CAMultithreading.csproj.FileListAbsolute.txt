@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\bin\Debug\net7.0\CAMultithreading.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\bin\Debug\net7.0\CAMultithreading.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\bin\Debug\net7.0\CAMultithreading.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\bin\Debug\net7.0\CAMultithreading.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\bin\Debug\net7.0\CAMultithreading.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\refint\CAMultithreading.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\CAMultithreading.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAMultithreading\obj\Debug\net7.0\ref\CAMultithreading.dll

@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\refint\CAProcessAndThread.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\MultiThreading\CAProcessAndThread\obj\Debug\net7.0\ref\CAProcessAndThread.dll
